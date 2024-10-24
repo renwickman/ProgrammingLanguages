@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\bin\Debug\net8.0\ProgrammingLanguages.exe
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\bin\Debug\net8.0\ProgrammingLanguages.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\bin\Debug\net8.0\ProgrammingLanguages.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\bin\Debug\net8.0\ProgrammingLanguages.dll
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\bin\Debug\net8.0\ProgrammingLanguages.pdb
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ProgrammingLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ProgrammingLanguages.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ProgrammingLanguages.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ProgrammingLanguages.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ProgrammingLanguages.dll
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\refint\ProgrammingLanguages.dll
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ProgrammingLanguages.pdb
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ProgrammingLanguages.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\ProgrammingLanguages\obj\Debug\net8.0\ref\ProgrammingLanguages.dll
